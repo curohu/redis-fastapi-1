@@ -1,0 +1,41 @@
+[2022-09-25 22:18:40 +0000] [26639] [INFO] Starting gunicorn 20.1.0
+[2022-09-25 22:18:40 +0000] [26639] [INFO] Listening at: http://0.0.0.0:8080 (26639)
+[2022-09-25 22:18:40 +0000] [26639] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2022-09-25 22:18:40 +0000] [26641] [INFO] Booting worker with pid: 26641
+[2022-09-25 22:18:40 +0000] [26641] [INFO] Started server process [26641]
+[2022-09-25 22:18:40 +0000] [26641] [INFO] Waiting for application startup.
+[2022-09-25 22:18:40 +0000] [26641] [INFO] Application startup complete.
+[2022-09-25 22:18:41 +0000] [26646] [INFO] Booting worker with pid: 26646
+[2022-09-25 22:18:41 +0000] [26646] [INFO] Started server process [26646]
+[2022-09-25 22:18:41 +0000] [26646] [INFO] Waiting for application startup.
+[2022-09-25 22:18:41 +0000] [26646] [INFO] Application startup complete.
+[2022-09-25 22:18:41 +0000] [26650] [INFO] Booting worker with pid: 26650
+[2022-09-25 22:18:41 +0000] [26650] [INFO] Started server process [26650]
+[2022-09-25 22:18:41 +0000] [26650] [INFO] Waiting for application startup.
+[2022-09-25 22:18:41 +0000] [26650] [INFO] Application startup complete.
+[2022-09-25 22:18:41 +0000] [26654] [INFO] Booting worker with pid: 26654
+[2022-09-25 22:18:41 +0000] [26654] [INFO] Started server process [26654]
+[2022-09-25 22:18:41 +0000] [26654] [INFO] Waiting for application startup.
+[2022-09-25 22:18:41 +0000] [26654] [INFO] Application startup complete.
+[2022-09-25 22:20:13 +0000] [26639] [INFO] Handling signal: term
+[2022-09-25 22:20:13 +0000] [26646] [INFO] Shutting down
+[2022-09-25 22:20:13 +0000] [26641] [INFO] Shutting down
+[2022-09-25 22:20:13 +0000] [26650] [INFO] Shutting down
+[2022-09-25 22:20:13 +0000] [26654] [INFO] Shutting down
+[2022-09-25 22:20:14 +0000] [26650] [INFO] Waiting for application shutdown.
+[2022-09-25 22:20:14 +0000] [26646] [INFO] Waiting for application shutdown.
+[2022-09-25 22:20:14 +0000] [26654] [INFO] Waiting for application shutdown.
+[2022-09-25 22:20:14 +0000] [26650] [INFO] Application shutdown complete.
+[2022-09-25 22:20:14 +0000] [26646] [INFO] Application shutdown complete.
+[2022-09-25 22:20:14 +0000] [26654] [INFO] Application shutdown complete.
+[2022-09-25 22:20:14 +0000] [26650] [INFO] Finished server process [26650]
+[2022-09-25 22:20:14 +0000] [26646] [INFO] Finished server process [26646]
+[2022-09-25 22:20:14 +0000] [26654] [INFO] Finished server process [26654]
+[2022-09-25 22:20:14 +0000] [26646] [INFO] Worker exiting (pid: 26646)
+[2022-09-25 22:20:14 +0000] [26650] [INFO] Worker exiting (pid: 26650)
+[2022-09-25 22:20:14 +0000] [26654] [INFO] Worker exiting (pid: 26654)
+[2022-09-25 22:20:14 +0000] [26641] [INFO] Waiting for application shutdown.
+[2022-09-25 22:20:14 +0000] [26641] [INFO] Application shutdown complete.
+[2022-09-25 22:20:14 +0000] [26641] [INFO] Finished server process [26641]
+[2022-09-25 22:20:14 +0000] [26641] [INFO] Worker exiting (pid: 26641)
+[2022-09-25 22:20:14 +0000] [26639] [INFO] Shutting down: Master
